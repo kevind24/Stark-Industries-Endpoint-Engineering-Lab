@@ -46,13 +46,13 @@ Avoid unnecessary infrastructure, duplicate work from previous labs, and excessi
 
 ## Phase 3 — Win32 Application Deployment
 
-- [ ] Select one application
-- [ ] Package application for Intune
-- [ ] Configure install/uninstall commands
-- [ ] Configure requirements and detection rules
-- [ ] Deploy to pilot
-- [ ] Validate installation
-- [ ] Promote deployment to production
+- [x] Select one application
+- [x] Package application for Intune
+- [x] Configure install/uninstall commands
+- [x] Configure requirements and detection rules
+- [x] Deploy to pilot
+- [x] Validate installation
+- [x] Promote deployment to production
 
 ## Phase 4 — Updates & PowerShell
 
