@@ -22,11 +22,11 @@ Avoid unnecessary infrastructure, duplicate work from previous labs, and excessi
 
 - [x] Create GitHub repository
 - [x] Create initial README
-- [ ] Verify Microsoft tenant and licensing
-- [ ] Finalize lab architecture
-- [ ] Define naming standards
-- [ ] Create pilot and production deployment groups
-- [ ] Create architecture diagram
+- [x] Verify Microsoft tenant and licensing
+- [x] Finalize lab architecture
+- [x] Define naming standards
+- [x] Create pilot and production deployment groups
+- [x] Create architecture diagram
 
 ## Phase 1 — Intune & Autopilot
 
