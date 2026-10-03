@@ -38,11 +38,11 @@ Avoid unnecessary infrastructure, duplicate work from previous labs, and excessi
 
 ## Phase 2 — Configuration, Security & Compliance
 
-- [ ] Create essential Windows configuration
-- [ ] Configure selected endpoint security settings
-- [ ] Create compliance policy
-- [ ] Deploy to pilot endpoint
-- [ ] Validate configuration and compliance
+- [x] Create essential Windows configuration
+- [x] Configure selected endpoint security settings
+- [x] Create compliance policy
+- [x] Deploy to pilot endpoint
+- [x] Validate configuration and compliance
 
 ## Phase 3 — Win32 Application Deployment
 
