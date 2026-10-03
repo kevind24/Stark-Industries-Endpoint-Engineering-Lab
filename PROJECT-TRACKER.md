@@ -30,11 +30,11 @@ Avoid unnecessary infrastructure, duplicate work from previous labs, and excessi
 
 ## Phase 1 — Intune & Autopilot
 
-- [ ] Prepare Intune environment
-- [ ] Configure Windows Autopilot
-- [ ] Provision pilot Windows 11 endpoint
-- [ ] Validate Entra ID join and Intune enrollment
-- [ ] Capture deployment evidence
+- [x] Prepare Intune environment
+- [x] Configure Windows Autopilot
+- [x] Provision pilot Windows 11 endpoint
+- [x] Validate Entra ID join and Intune enrollment
+- [x] Capture deployment evidence
 
 ## Phase 2 — Configuration, Security & Compliance
 
