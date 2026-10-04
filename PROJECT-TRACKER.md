@@ -66,14 +66,14 @@ Avoid unnecessary infrastructure, duplicate work from previous labs, and excessi
 
 ## Phase 5 — Troubleshooting & Final Validation
 
-- [ ] Create application deployment failure
-- [ ] Diagnose application deployment failure
-- [ ] Resolve and validate application deployment
-- [ ] Create compliance/configuration failure
-- [ ] Diagnose compliance/configuration failure
-- [ ] Resolve and validate compliance/configuration
-- [ ] Document troubleshooting scenarios
-- [ ] Validate pilot-to-production workflow
+- [x] Create application deployment failure
+- [x] Diagnose application deployment failure
+- [x] Resolve and validate application deployment
+- [x] Create compliance/configuration failure
+- [x] Diagnose compliance/configuration failure
+- [x] Resolve and validate compliance/configuration
+- [x] Document troubleshooting scenarios
+- [x] Validate pilot-to-production workflow
 
 ## Final Documentation
 
