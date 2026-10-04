@@ -56,13 +56,13 @@ Avoid unnecessary infrastructure, duplicate work from previous labs, and excessi
 
 ## Phase 4 — Updates & PowerShell
 
-- [ ] Create pilot Windows update ring
-- [ ] Create production Windows update ring
-- [ ] Configure staged update deployment
-- [ ] Create one useful endpoint PowerShell script
-- [ ] Test script locally
-- [ ] Deploy/test through endpoint management
-- [ ] Validate results
+- [x] Create pilot Windows update ring
+- [x] Create production Windows update ring
+- [x] Configure staged update deployment
+- [x] Create one useful endpoint PowerShell script
+- [x] Test script locally
+- [x] Deploy/test through endpoint management
+- [x] Validate results
 
 ## Phase 5 — Troubleshooting & Final Validation
 
